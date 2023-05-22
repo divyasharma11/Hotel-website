@@ -220,11 +220,7 @@
     to{width: 100%;}
   }
   @media(max-width: 730px){
-    .navbar{
-      width: 200px;
-      height: 100vh;
-      position: fixed;
-    }
+
     #setting{
         position: relative;
         top: 8rem;
