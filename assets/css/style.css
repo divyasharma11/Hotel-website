@@ -221,7 +221,7 @@
   }
   @media(max-width: 730px){
     .navbar{
-      width: 6vw;
+      width: 4vw;
       height: 100vh;
       position: fixed;
     }
