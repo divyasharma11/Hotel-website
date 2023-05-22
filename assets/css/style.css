@@ -221,7 +221,7 @@
   }
   @media(max-width: 730px){
     .navbar{
-        width: 7vw;
+        width:100px;
     }
     #setting{
         position: relative;
